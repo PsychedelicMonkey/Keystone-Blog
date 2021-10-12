@@ -1,3 +1,7 @@
-body {
-  background-color: #eee;
+img {
+  width: 100%;
+}
+
+.badge:hover {
+  opacity: 0.7;
 }
